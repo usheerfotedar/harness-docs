@@ -1,4 +1,4 @@
-name: <+stage.variables.name>
+name: bgdemotest
 replicas: 2
 
 image: <+artifact.image>
