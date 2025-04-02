@@ -25,4 +25,4 @@ env:
   config:
     key1: value1
   secrets:
-    key2: <+secrets.getValue("account.masktest")>
+    key2: <+secrets.getValue("maskneww")>
